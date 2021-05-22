@@ -1,0 +1,36 @@
+# This file was created Wed Feb 27 11:58:21 2019
+# Created by:
+#                       :-) GROMACS - gmx tcaf, 2016.1 (-:
+# 
+# Executable:   /sw/sdev/Modules/gromacs/gromacs-2016.1/bin/gmx
+# Data prefix:  /sw/sdev/Modules/gromacs/gromacs-2016.1
+# Working dir:  /work/pousaneh/Simulations/Confiremd/AR_HS_1Dec2018/P100
+# Command line:
+#   gmx tcaf -ov -f NVT.trr -s NVT.tpr -normalize -of -b 500
+# gmx tcaf is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "Fits"
+@    xaxis  label "k (nm\S-1\N)"
+@    yaxis  label "\xh\f{} (10\S-3\N kg m\S-1\N s\S-1\N)"
+@TYPE xy
+@    s0 symbol 2
+@    s0 symbol color 1
+@    s0 linestyle 0
+ 0.916 0.0190165
+ 0.916 0.0187221
+ 0.916 0.0176378
+ 1.295 0.0154569
+ 1.295 0.0159187
+ 1.295 0.014941
+ 1.295 0.0163863
+ 1.295 0.0164474
+ 1.295 0.0145076
+ 1.586 0.014618
+ 1.586 0.0137194
+ 1.586 0.0146211
+ 1.586 0.01432
+ 1.831 0.0129064
+ 1.831 0.0139481
+ 1.831 0.0136131

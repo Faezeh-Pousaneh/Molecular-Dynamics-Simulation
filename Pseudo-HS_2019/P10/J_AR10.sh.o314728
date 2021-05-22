@@ -1,0 +1,104 @@
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 36x36x36, spacing 0.117 0.117 0.117
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 28x28x28, spacing 0.150 0.150 0.150
+This run will generate roughly 0 Mb of data
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 28x28x28, spacing 0.150 0.150 0.150
+This run will generate roughly 1 Mb of data
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 96x96x96, spacing 0.143 0.143 0.143
+Selected 0: 'System'
+Density = 25.4125 (kg/m^3)
+Average correlation time 443569.875 Std. Dev. 608169.812 Error 76622.188 (ps)
+k  0.457  tau  6.868  eta  0.00790 10^-3 kg/(m s)
+k  0.457  tau  7.047  eta  0.00722 10^-3 kg/(m s)
+k  0.457  tau  6.993  eta  0.00801 10^-3 kg/(m s)
+k  0.646  tau  4.639  eta  0.00579 10^-3 kg/(m s)
+k  0.646  tau  4.808  eta  0.00571 10^-3 kg/(m s)
+k  0.646  tau  5.010  eta  0.00590 10^-3 kg/(m s)
+k  0.646  tau  4.608  eta  0.00575 10^-3 kg/(m s)
+k  0.646  tau  4.943  eta  0.00595 10^-3 kg/(m s)
+k  0.646  tau  4.558  eta  0.00555 10^-3 kg/(m s)
+k  0.791  tau  3.597  eta  0.00494 10^-3 kg/(m s)
+k  0.791  tau  3.825  eta  0.00476 10^-3 kg/(m s)
+k  0.791  tau  3.705  eta  0.00483 10^-3 kg/(m s)
+k  0.791  tau  3.815  eta  0.00494 10^-3 kg/(m s)
+k  0.914  tau  3.117  eta  0.00422 10^-3 kg/(m s)
+k  0.914  tau  3.480  eta  0.00455 10^-3 kg/(m s)
+k  0.914  tau  2.993  eta  0.00422 10^-3 kg/(m s)
+Selected 0: 'System'
+Density = 25.4313 (kg/m^3)
+Average correlation time 429375.250 Std. Dev. 622327.625 Error 78405.906 (ps)
+k  0.457  tau  6.850  eta  0.00777 10^-3 kg/(m s)
+k  0.457  tau  7.095  eta  0.00729 10^-3 kg/(m s)
+k  0.457  tau  6.808  eta  0.00779 10^-3 kg/(m s)
+k  0.646  tau  4.630  eta  0.00588 10^-3 kg/(m s)
+k  0.646  tau  4.911  eta  0.00567 10^-3 kg/(m s)
+k  0.646  tau  5.079  eta  0.00611 10^-3 kg/(m s)
+k  0.646  tau  4.611  eta  0.00561 10^-3 kg/(m s)
+k  0.646  tau  5.051  eta  0.00606 10^-3 kg/(m s)
+k  0.646  tau  4.506  eta  0.00550 10^-3 kg/(m s)
+k  0.791  tau  3.655  eta  0.00497 10^-3 kg/(m s)
+k  0.791  tau  3.952  eta  0.00493 10^-3 kg/(m s)
+k  0.791  tau  3.695  eta  0.00494 10^-3 kg/(m s)
+k  0.791  tau  3.803  eta  0.00500 10^-3 kg/(m s)
+k  0.914  tau  3.108  eta  0.00424 10^-3 kg/(m s)
+k  0.914  tau  3.502  eta  0.00457 10^-3 kg/(m s)
+k  0.914  tau  2.982  eta  0.00422 10^-3 kg/(m s)
+Selected 0: 'System'
+Density = 25.4576 (kg/m^3)
+Average correlation time 440761.281 Std. Dev. 691083.500 Error 87068.336 (ps)
+k  0.457  tau  6.865  eta  0.00773 10^-3 kg/(m s)
+k  0.457  tau  7.243  eta  0.00738 10^-3 kg/(m s)
+k  0.457  tau  6.883  eta  0.00782 10^-3 kg/(m s)
+k  0.646  tau  4.585  eta  0.00580 10^-3 kg/(m s)
+k  0.646  tau  4.903  eta  0.00566 10^-3 kg/(m s)
+k  0.646  tau  5.084  eta  0.00614 10^-3 kg/(m s)
+k  0.646  tau  4.589  eta  0.00547 10^-3 kg/(m s)
+k  0.646  tau  4.929  eta  0.00596 10^-3 kg/(m s)
+k  0.646  tau  4.516  eta  0.00546 10^-3 kg/(m s)
+k  0.791  tau  3.600  eta  0.00494 10^-3 kg/(m s)
+k  0.791  tau  4.018  eta  0.00499 10^-3 kg/(m s)
+k  0.791  tau  3.757  eta  0.00513 10^-3 kg/(m s)
+k  0.791  tau  3.793  eta  0.00505 10^-3 kg/(m s)
+k  0.914  tau  3.180  eta  0.00440 10^-3 kg/(m s)
+k  0.914  tau  3.466  eta  0.00459 10^-3 kg/(m s)
+k  0.914  tau  2.853  eta  0.00416 10^-3 kg/(m s)
+Selected 0: 'System'
+Density = 25.497 (kg/m^3)
+Average correlation time 455134.594 Std. Dev. 770415.625 Error 97063.242 (ps)
+k  0.457  tau  6.815  eta  0.00757 10^-3 kg/(m s)
+k  0.457  tau  7.429  eta  0.00745 10^-3 kg/(m s)
+k  0.457  tau  6.819  eta  0.00750 10^-3 kg/(m s)
+k  0.646  tau  4.439  eta  0.00556 10^-3 kg/(m s)
+k  0.646  tau  4.929  eta  0.00543 10^-3 kg/(m s)
+k  0.646  tau  5.123  eta  0.00611 10^-3 kg/(m s)
+k  0.646  tau  4.641  eta  0.00563 10^-3 kg/(m s)
+k  0.646  tau  4.923  eta  0.00586 10^-3 kg/(m s)
+k  0.646  tau  4.525  eta  0.00534 10^-3 kg/(m s)
+k  0.791  tau  3.543  eta  0.00488 10^-3 kg/(m s)
+k  0.791  tau  4.144  eta  0.00497 10^-3 kg/(m s)
+k  0.791  tau  3.893  eta  0.00535 10^-3 kg/(m s)
+k  0.791  tau  3.747  eta  0.00491 10^-3 kg/(m s)
+k  0.914  tau  3.211  eta  0.00435 10^-3 kg/(m s)
+k  0.914  tau  3.477  eta  0.00464 10^-3 kg/(m s)
+k  0.914  tau  2.726  eta  0.00409 10^-3 kg/(m s)
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 96x96x96, spacing 0.143 0.143 0.143
+This run will generate roughly 5 Mb of data

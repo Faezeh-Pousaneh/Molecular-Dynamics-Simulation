@@ -1,0 +1,30 @@
+# Grace fit description file
+#
+fit title "A fit"
+fit formula "y =  (a0+a1)/2      -( (tanh(a3/a4)*(a0-a1)  +a0 -2*a2+a1)/(4*  ( tanh(a3/a4)   )    ))   *tanh((x+a3+a5)/a4)         - ( (tanh(a3/a4)*(a0-a1)  -a0 +2*a2-a1)/(4*  ( tanh(a3/a4)   )    ))   *tanh((x-a3+a5)/a4)"
+fit with 6 parameters
+fit prec 0.01
+a0 = 0.0001
+a0 constraints on
+a0min = 0.0001
+a0max = 0.00015
+a1 = 0.0011
+a1 constraints on
+a1min = 0.001
+a1max = 0.0011
+a2 = 0.00802523
+a2 constraints on
+a2min = 0.0078
+a2max = 0.0081
+a3 = 4.66648e-06
+a3 constraints on
+a3min = 0
+a3max = 5
+a4 = 1.09858
+a4 constraints on
+a4min = 0.5
+a4max = 2
+a5 = 0.0943482
+a5 constraints on
+a5min = -2
+a5max = 1

@@ -1,0 +1,10 @@
+No Prologue was run  Fri May  3 11:27:10 CEST 2019 
+Extending remaining runtime of by 10000 ps (now 65000000 steps)
+Analysing residue names:
+There are:  1000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 84x84x84, spacing 0.160 0.160 0.160
+Start Epilogue v3.0.1 Fri May  3 14:54:05 CEST 2019 
+clean up
+End Epilogue v3.0.1 Fri May  3 14:54:06 CEST 2019 
